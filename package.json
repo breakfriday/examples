@@ -2,8 +2,8 @@
   "name": "koa-examples",
   "description": "Examples using Koa",
   "version": "0.0.1",
-  "repository": "https://github.com/koajs/examples",
-  "bugs": "https://github.com/koajs/examples/issues",
+  "repository": "https://github.com/breakfriday/examples.git",
+  "bugs": "https://github.com/breakfriday/examples.git/issues",
   "dependencies": {
     "co": "^4.1.0",
     "co-body": "^1.0.0",
